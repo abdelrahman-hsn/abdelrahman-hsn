@@ -1,6 +1,7 @@
 ### Hi I'm Abdelrahman 👋 👨🏻‍💻
-
+<--
 [![twitter badge](https://img.shields.io/badge/twitter-@abdelrahman_hsn-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abdelrahman_hsn)
+-->
 [![dev.to badge](https://img.shields.io/badge/gitlab-abdelrahmanhsn-orange?style=flat&logo=gitlab)](https://gitlab.com/abdelrahmanhsn)
 [![dev.to badge](https://img.shields.io/badge/linkedin-abdelrahmanhsn-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abd-el-rahman-hsn)
 [![glitch badge](https://img.shields.io/badge/facebook-abdelrahmanhsn-%230177B5?style=flat&logo=facebook)](https://www.facebook.com/abdelrahmanhsn)
